@@ -1,0 +1,8 @@
+<v1:View xmlns:v1="sap.ui.core.mvc" xmlns="sap.m">
+   <Page title="ERF">
+     <Button text="Register" width="50%" enabled="true"/>
+     <Text text="Devender"/>
+     <Input value="SMAX"/> 
+     <Label text="testing"/>    
+   </Page>
+</v1:View>  
